@@ -409,7 +409,7 @@ hr {
 }
 @media only screen and (max-width: 490px){
   #about-image{
-    width: max-content;
+    width: 100%;
   }
   .btn-group{
   margin-left: 0px;
