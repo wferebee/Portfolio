@@ -258,6 +258,7 @@ hr {
   .btn-group{
     margin-left: 0px;
     padding-left: 0px;
+    padding-right: 5px;
     }
 
 }
@@ -271,7 +272,13 @@ hr {
     border-bottom-color: #000000;
     padding: 7px;
     color: white;
+
   }
+  .btn-group{
+
+    margin-right: 5px;
+    padding-right: 5px;
+    }
 
 
 }
@@ -407,5 +414,6 @@ hr {
   .btn-group{
   margin-left: 0px;
   padding-left: 0px;
+  padding-right: 5px;
   }
 }
